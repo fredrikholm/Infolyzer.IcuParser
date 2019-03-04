@@ -6,9 +6,11 @@
     <title>$title$</title>
     <authors>$authors$</authors>
     <owners>$authors$</owners>
+    <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>An ICU message format parser for .NET Core 2.2 or later.</description>
     <copyright>Infolyzer AB 2019</copyright>
+    <projectUrl>https://github.com/fredrikholm/Infolyzer.IcuParser</projectUrl>
     <tags>#icu #parser #messageformat</tags>
     <dependencies>
       <group targetFramework=".NETCoreApp2.2" />
