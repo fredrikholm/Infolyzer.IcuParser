@@ -2,6 +2,10 @@
 
 An ICU message format parser for .NET Core 2.2 or later.
 
+**Get it on NuGet:**
+
+`PM> Install-Package Infolyzer.IcuParser`
+
 ## What problem does it solve?
 
 Let's say you want to prevent unlimited login retries in your web app. After, let's say, three invalid login attempts, the account gets locked for five minutes. 
