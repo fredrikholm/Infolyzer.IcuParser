@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Description>ICU message format parser.</Description>
+    <Copyright>Infolyzer AB 2019</Copyright>
+    <Company>Infolyzer AB</Company>
+    <Authors>Fredrik Holm</Authors>
+    <Product>ICU Parser</Product>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <RepositoryType>Private</RepositoryType>
+    <PackageTags>#icu #parser #messageformat</PackageTags>
+  </PropertyGroup>
+
+</Project>
