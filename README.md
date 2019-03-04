@@ -4,7 +4,9 @@ An ICU message format parser for .NET Core 2.2 or later.
 
 **Get it on NuGet:**
 
-`PM> Install-Package Infolyzer.IcuParser`
+```console
+PM> Install-Package Infolyzer.IcuParser
+```
 
 ## What problem does it solve?
 
