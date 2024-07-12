@@ -13,7 +13,7 @@
     <projectUrl>https://github.com/fredrikholm/Infolyzer.IcuParser</projectUrl>
     <tags>#icu #parser #messageformat</tags>
     <dependencies>
-      <group targetFramework=".NETCoreApp2.2" />
+      <group targetFramework="netstandard2.0" />
     </dependencies>
   </metadata>
 </package>
